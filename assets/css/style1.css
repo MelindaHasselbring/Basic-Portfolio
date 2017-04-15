@@ -11,13 +11,10 @@
 }
 
 body {
-     color: #777777
-     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+     color: #777777;
+    /* font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;*/
 }
-/*
-#header {
 
-}*/
 
 #name {
     background-color:  #4FA9A4;
@@ -110,7 +107,7 @@ h1 {
 
 
 
-#aboutme {
+#contactform {
     font-family: 'Georgia', Times, Times New Roman, serif;
     padding-top: 20px;
     color: #777777;
@@ -191,7 +188,7 @@ h3 {
 
 /*======== This area is for the Contact===========*/
 /* Add a background color and some padding around the form */
-.contact {
+.contactform {
 /*    border-radius: 5px;
     background-color: #f2f2f2;
     padding: 20px;*/
@@ -201,7 +198,7 @@ h3 {
     font-size: 16px;
     line-height: 20px;
     color: #777777;
-    width: 50%;
+    width: 40%;
 
     margin-bottom: 15px;
     border-style: solid;
